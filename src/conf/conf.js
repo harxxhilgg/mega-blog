@@ -1,4 +1,4 @@
-// importing and exporting environment variables
+// using and exporting environment variables
 
 const conf = {
   appwriteURL: String(import.meta.env.VITE_APPWRITE_URL),
